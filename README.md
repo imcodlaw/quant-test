@@ -11,6 +11,7 @@ There are 3 components of this repo
 ![graph](https://github.com/imcodlaw/quant-test/assets/14073798/32d0813b-dc92-4c0d-9f11-3b9da8e32554)
 - Based on this mid spread data : https://github.com/imcodlaw/quant-test/blob/main/mid_spread_data.csv
 - Strategies comparison
+- 
   <img width="477" alt="strategy comparison" src="https://github.com/imcodlaw/quant-test/assets/14073798/dd846833-539d-4c6f-a1c5-d02eef80b2da">
 
 3. Video
