@@ -3,8 +3,8 @@
 There are 4 components of this repo
 
 1. Code
-   The script to generate can be found here https://github.com/imcodlaw/quant-test/blob/main/quant%20test%20bitwyre.ipynb
-It's written in Python with Jupyter notebook format
+- The script to generate can be found here https://github.com/imcodlaw/quant-test/blob/main/quant%20test%20bitwyre.ipynb
+  It's written in Python with Jupyter notebook format
 
 3. Graph
 This is the sample graph that I've obtained according to the paper
