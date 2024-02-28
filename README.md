@@ -19,3 +19,5 @@ There are 3 components of this repo
 - Correction : in the last section of the video where I explained about parameter k, I meant higher k equals narrower spread and not wider
 
 
+4. Live Coding
+- The live coding script can be found here : https://github.com/imcodlaw/quant-test/blob/main/live_coding_test.ipynb
